@@ -1,7 +1,7 @@
 # Conqueuer Example
 
 Demo of using Conqueuer (pronounced like conquer).<br>
-Conqueuer is a non-persistent Elixir work queue
+Conqueuer is a non-persistent Elixir work queue.
 
 ## Using
 ### Run demo
