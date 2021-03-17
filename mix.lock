@@ -1,0 +1,5 @@
+%{
+  "conqueuer": {:hex, :conqueuer, "0.5.1", "2066a0af0633dfc5eb5c420696388478f7b86243c7a03d6c516379d65cf804e5", [:mix], [{:inflex, "~> 1.5", [hex: :inflex, repo: "hexpm", optional: false]}, {:poolboy, "~> 1.5", [hex: :poolboy, repo: "hexpm", optional: false]}], "hexpm", "7370e2a0201f73ced6b202877b4dcb6872e1b6bbb0c024b1edee3a058dd653ab"},
+  "inflex": {:hex, :inflex, "1.10.0", "8366a7696e70e1813aca102e61274addf85d99f4a072b2f9c7984054ea1b9d29", [:mix], [], "hexpm", "7b5ccb9b720c26516f5962dc4565fc26f083ca107b0f6c167048506a125d2df3"},
+  "poolboy": {:hex, :poolboy, "1.5.2", "392b007a1693a64540cead79830443abf5762f5d30cf50bc95cb2c1aaafa006b", [:rebar3], [], "hexpm", "dad79704ce5440f3d5a3681c8590b9dc25d1a561e8f5a9c995281012860901e3"},
+}
